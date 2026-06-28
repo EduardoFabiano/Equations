@@ -1,1 +1,1 @@
-Basic mathematics.
+Basic Mathematics.
