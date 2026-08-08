@@ -4,7 +4,7 @@ Algebra 1
 
 # Description:
 
-this script calculates linear and quadratic equations.
+this script calculates linear and quadratic equations
 
 # Installation:
 ```bash
