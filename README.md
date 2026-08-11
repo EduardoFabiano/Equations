@@ -13,7 +13,7 @@ cd Equations
 
 Execute with:
 
-equations.py
+python equations.py
 ```
 # Technologies Used:
 
